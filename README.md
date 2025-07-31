@@ -35,10 +35,14 @@ Admin Dashboard (Analytics & Orders)
 
 # Install backend dependencies
 cd backend
+</br>
 npm install
+</br>
 npm run server
 
 # Install frontend dependencies
 cd ../frontend
+</br>
 npm install
+</br>
 npm start
