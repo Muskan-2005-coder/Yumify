@@ -18,15 +18,6 @@ Backend: Node.js, Express.js
 Database: MongoDB (with Mongoose)
 Authentication: JWT (JSON Web Tokens)
 
-# 📸 UI Snapshots 
-Home Page with Restaurant Listings
-
-Menu Page with Cart
-
-Checkout Flow
-
-Admin Dashboard (Analytics & Orders)
-
 # 🧠 Learning Highlights
 1. Designed a responsive UI using React and Tailwind CSS
 2. Managed global state with Redux for cart and user sessions
