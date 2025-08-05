@@ -31,7 +31,7 @@ npm install
 </br>
 npm run server
 
-# Install frontend dependencies
+# Install fronted dependencies
 cd ../frontend
 </br>
 npm install
