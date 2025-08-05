@@ -13,10 +13,15 @@ Yumify is a full-stack food delivery platform that allows users to browse restau
 
 
 # 📱 Tech Stack
-Frontend: React.js, Material UI, Redux for state management
-Backend: Node.js, Express.js
-Database: MongoDB (with Mongoose)
-Authentication: JWT (JSON Web Tokens)
+
+| Category              | Technology                               | Purpose |
+|-----------------------|-------------------------------------------|---------|
+| **Frontend**          | React.js, Tailwind CSS                   | UI development, responsive design |
+| **State Management**  | Redux Toolkit                            | Managing global state (cart, user data) |
+| **Backend**           | Node.js, Express.js                      | REST API, server-side logic |
+| **Database**          | MongoDB                                  | Storing users, orders, menus |
+| **Authentication**    | JWT (JSON Web Token)                     | Secure login and session handling |
+| **API Communication** | Axios                                    | Handling HTTP requests |
 
 # 🧠 Learning Highlights
 1. Designed a responsive UI using React and Tailwind CSS
