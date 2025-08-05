@@ -4,7 +4,7 @@ Yumify is a full-stack food delivery platform that allows users to browse restau
 👤 User Features
 1. Sign up/Login with authentication
 2. Browse restaurants and menu items
---
+
 
 # 🛠️ Admin Features
 1. Admin login
